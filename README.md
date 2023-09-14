@@ -3,9 +3,9 @@
 
 ## GIT
 
-- [Git in 15 minutes (eng)](https://www.youtube.com/watch?v=USjZcfj8yxE)
+- [Git in 15 minutes (video eng)](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
-- [Git E-Book (ita)](https://get-git.readthedocs.io/it/latest/)
+- [Git (E-Book ita)](https://get-git.readthedocs.io/it/latest/)
 
 
 
