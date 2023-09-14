@@ -3,19 +3,19 @@
 
 ## GIT
 
-[Git Into Video (eng)](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
+- [Git Into Video (eng)](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
 
-[Git E-Book (ita)](https://get-git.readthedocs.io/it/latest/)
+- [Git E-Book (ita)](https://get-git.readthedocs.io/it/latest/)
 
 
 
 ## PHP
 
-[Namespaces](https://www.phptutorial.net/php-oop/php-namespace/)
+- [Namespaces](https://www.phptutorial.net/php-oop/php-namespace/)
 
-[Magic Methods](https://www.phptutorial.net/php-oop/php-magic-methods/)
+- [Magic Methods](https://www.phptutorial.net/php-oop/php-magic-methods/)
 
-[Traits](https://www.phptutorial.net/php-oop/php-traits/)
+- [Traits](https://www.phptutorial.net/php-oop/php-traits/)
 
 
 -   [Php8.2](https://www.php.net/releases/8.2/en.php),
@@ -34,6 +34,6 @@
 
 ### Composer (Php package Manager)
 
-[Composer](https://getcomposer.org/doc/)
+- [Composer](https://getcomposer.org/doc/)
 
-[Composer Autoload](https://www.phptutorial.net/php-oop/php-composer-autoload/)
+- [Composer Autoload](https://www.phptutorial.net/php-oop/php-composer-autoload/)
